@@ -1,0 +1,16 @@
+@page{size: 9in 9.5in;}
+body{ border: solid black 3px ;
+    width: 9in;
+    height: 9.5in;
+   position: absolute;
+   left: 27%;
+   font-size:larger;
+   font-family: 'Mirza', cursive;
+   background-color: lightblue;
+}
+ th, td {
+   text-align: right;
+   
+ padding-top: 30px ;
+
+  }
